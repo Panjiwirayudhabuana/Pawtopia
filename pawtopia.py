@@ -93,6 +93,3 @@ def update_produk():
     conn.commit()
     cur.close()
     conn.close()
-
-# update_produk()
-read_product_acessories()
